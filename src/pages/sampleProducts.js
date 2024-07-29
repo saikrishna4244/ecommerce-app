@@ -1,0 +1,14 @@
+// src/pages/sampleProducts.js
+export const sampleProducts = [
+    { id: 1, name: 'HP Envy 2-in-1 14"', model: '14-e0033dx', sku: '6571082', price: 599.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6571/6571083_sd.jpg;maxHeight=334;maxWidth=600', description: 'A versatile 2-in-1 laptop for work and play.' },
+    { id: 2, name: 'HP Envy 2-in-1 16"', model: '16-ad0037dx', sku: '6571083', price: 729.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6571/6571083_sd.jpg;maxHeight=334;maxWidth=600', description: 'A powerful 2-in-1 laptop with a large screen.' },
+    { id: 3, name: 'Gaming Laptop', model: 'GL-123', sku: '123456', price: 999.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6571/6571083_sd.jpg;maxHeight=334;maxWidth=600', description: 'High-performance laptop for gaming enthusiasts.' },
+    { id: 4, name: 'Apple MacBook Air', model: 'M1', sku: '8923451', price: 999.00, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6391/6391800_sd.jpg;maxHeight=334;maxWidth=600', description: 'Apple M1 chip with 8‑core CPU and 7‑core GPU.' },
+    { id: 5, name: 'Dell XPS 13', model: '9310', sku: '459123', price: 1249.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6489/6489525_sd.jpg;maxHeight=334;maxWidth=600', description: '13.4" FHD+ Touch Laptop with Intel Core i7.' },
+    { id: 6, name: 'Lenovo ThinkPad X1 Carbon', model: 'Gen 9', sku: '214365', price: 1399.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6490/6490145_sd.jpg;maxHeight=334;maxWidth=600', description: 'Ultra-thin and lightweight with a stunning display.' },
+    { id: 7, name: 'Asus ROG Zephyrus G14', model: 'GA401IV', sku: '741258', price: 1499.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6472/6472387_sd.jpg;maxHeight=334;maxWidth=600', description: 'Powerful gaming laptop with AMD Ryzen 9 and RTX 2060.' },
+    { id: 8, name: 'Microsoft Surface Laptop 4', model: 'THR-00001', sku: '362718', price: 1299.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6453/6453184_sd.jpg;maxHeight=334;maxWidth=600', description: '13.5” Touchscreen Laptop – Intel Core i5.' },
+    { id: 9, name: 'Acer Swift 3', model: 'SF314-59-75QC', sku: '481236', price: 699.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6442/6442945_sd.jpg;maxHeight=334;maxWidth=600', description: 'Intel Evo Platform Laptop with 14" Full HD.' },
+    { id: 10, name: 'Razer Blade 15', model: 'Base Model', sku: '963258', price: 1799.99, image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6402/6402603_sd.jpg;maxHeight=334;maxWidth=600', description: 'Gaming Laptop with 10th Gen Intel Core i7 and RTX 2070.' },
+  ];
+  
